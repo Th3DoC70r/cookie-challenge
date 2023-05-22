@@ -1,0 +1,25 @@
+{
+  "name": "cookie-challenge",
+  "version": "1.0.0",
+  "description": "SDI 16 cookie challenge learn content",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Th3DoC70r/cookie-challenge.git"
+  },
+  "author": "Th3DoC70r",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Th3DoC70r/cookie-challenge/issues"
+  },
+  "homepage": "https://github.com/Th3DoC70r/cookie-challenge#readme",
+  "dependencies": {
+    "cookie-parser": "^1.4.6",
+    "cookie-session": "^2.0.0",
+    "express": "^4.18.2"
+  }
+}
